@@ -21,7 +21,7 @@ import javax.swing.*;
 	new Thread (new Server()).start();
 	}
 	public Main(String name){
-    super ("Test" );
+    super ("Test23" );
     setLayout(new FlowLayout());
     setSize (400 ,400);
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
